@@ -118,3 +118,5 @@ stored within a `@name` instance variable.
 Additionally, `Dog#initialize` should accept a second _optional_ argument for
 the dog's breed stored in an instance variable `@breed`. When no breed is
 provided, it should default to "Mutt".
+
+https://github.com/G3o-R/phase-3-ruby-oo-basics-object-initialization-lab
